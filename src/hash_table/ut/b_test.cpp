@@ -4,7 +4,5 @@
 #include <iostream>
 
 TEST(A, B) {
-  ASSERT_EQ(2 + 2, 9);
-
-  qwewe
+  ASSERT_EQ(2 + 2, 11);
 }
