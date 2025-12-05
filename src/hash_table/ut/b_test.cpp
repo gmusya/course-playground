@@ -5,4 +5,6 @@
 
 TEST(A, B) {
   ASSERT_EQ(2 + 2, 9);
+
+  qwewe
 }
